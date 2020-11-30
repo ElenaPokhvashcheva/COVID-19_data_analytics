@@ -6,7 +6,7 @@
 Цель данной работы не найти закономерности, которые влияют на возможность заразиться "Короной" в 2020, а попрактиковать возможности, которые дают библиотеки Python на обработке достаточно большого объема данных.
 <br><br>
 Данные для анализа взяты 
-<a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset" title="novel-corona-virus-2019-dataset">отсюда </a><br>
+<a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset" title="novel-corona-virus-2019-dataset">здесь </a><br>
 На основе анализа данных <a href="https://github.com/almaleksia" title="almaleksia">almaleksia </a><br><br>
 
 `covid_19_data.csv` содержит следующие значения: <br><br>
