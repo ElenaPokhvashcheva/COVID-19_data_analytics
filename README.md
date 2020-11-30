@@ -1,5 +1,5 @@
 # COVID-19_data_analytics
-Анализ данных о ситуации в мире по COVID-19 на примере 3-х стран с использованием Python (Pandas и Matplotlib)
+Анализ данных по COVID-19 на примере 3-х стран с использованием Python (Pandas и Matplotlib)
 <br><br>
 **Цель работы:** <br>
 <br>
