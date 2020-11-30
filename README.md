@@ -1,8 +1,8 @@
 # COVID-19_data_analytics
 Анализ данных о ситуации в мире по COVID-19 на примере 3-х стран с использованием Python (Pandas и Matplotlib)
 
-Данные для анализа взяты с https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-На основне анализа данных  https://github.com/almaleksia
+Данные для анализа взяты с https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset <br>
+На основне анализа данных  https://github.com/almaleksia <br>
 
 `covid_19_data.csv` содержит следующие значения: <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp; `SNo` – порядковый номер <br>
